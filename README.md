@@ -13,10 +13,10 @@
 
 </> YBN Joris 
 
-1️⃣🇫🇷 Ouvrez le fichier "index.html", puis recherchez la balise <video> à la ligne 95. C'est ici que vous trouverez la configuration de la vidéo en arrière-plan du site.
+1️⃣🇫🇷 Ouvrez le fichier "index.html", puis recherchez la balise video à la ligne 95. C'est ici que vous trouverez la configuration de la vidéo en arrière-plan du site.
 💡 La vidéo se trouve dans le dossier "img".
 
-1️⃣🇺🇸 Open the "index.html" file, then search for the <video> tag on line 95. This is where you'll find the configuration for the background video of the site.
+1️⃣🇺🇸 Open the "index.html" file, then search for the video tag on line 95. This is where you'll find the configuration for the background video of the site.
 💡 The video is located in the "img" folder.
 
 2️⃣🇫🇷 Dans le dossier "css/styles.css", vous trouverez toutes les modifications graphiques du menu appelé "Spotify".
