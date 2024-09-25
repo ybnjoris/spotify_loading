@@ -18,11 +18,11 @@ let allMusic = [
       type_music : 'mp3'
   },
   {
-      img : 'prettygrunge.wav',
+      img : 'prettygrunge',
       type_image : 'jpg',
-      name : 'prettygrunge.wav',
+      name : 'prettygrunge',
       artist : 'Artemas',
-      src : 'prettygrunge.wav',
+      src : 'prettygrunge',
       type_music : 'mp3'
   },
   {
